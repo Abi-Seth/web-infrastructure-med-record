@@ -58,7 +58,6 @@ JSON with structured fields such as:
 ## Project Structure
 
 ```
-.
 ├── Dockerfile            # Builds the app image
 ├── web_infra_lab/        # Infrastructure setup (cloned as instructed)
 ├── backend/              # Abstraction for the querying of the FDA api
@@ -69,7 +68,7 @@ JSON with structured fields such as:
 
 ## Demo Video
 
-See `demo.mov` in the repository root for a full walkthrough.
+See `demo.mov` in the repository root for a full walkthrough. Or on youtube [https://youtu.be/VzTj8v6Y4Go](https://youtu.be/VzTj8v6Y4Go)
 
 
 ---
@@ -204,4 +203,10 @@ Expect responses alternating between `web01` and `web02`.
 ## Docker Hub
 
 * [https://hub.docker.com/repository/docker/abiseth/med-record](https://hub.docker.com/r/abiseth/med-record/tags)
+
+## Youtube Link
+
+* [https://youtu.be/VzTj8v6Y4Go](https://youtu.be/VzTj8v6Y4Go)
+
+
 
